@@ -11,7 +11,7 @@ Project 2: Implementing LSF, TLSF and RANSAC fitting algorithm for point cloud d
 ## Usage
 Each project contains a separate folder with the necessary code, data, and instructions for running the project. In general, the code can be run using Python and the required libraries can be installed using pip.
 
-<## Credits>
+<Credits>
 <The projects in this repository were developed by the following individuals:>
 
 ## License
