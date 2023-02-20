@@ -6,7 +6,7 @@ This repository contains code and projects developed as part of the course ENPM6
 The following is a brief summary of the projects included in this repository:
 
 - Ball_tracking: Implementing ball tracking using HSV masking and fitting parabolic curve to the data
-- Plane_fitting: Implementing LSF, TLSF and RANSAC fitting algorithm for point cloud data
+- Plane_fitting: Implementing SLS, TLS and RANSAC fitting algorithm for point cloud data
 
 ## Usage
 Each project contains a separate folder with the necessary code, data, and instructions for running the project. In general, the code can be run using Python and the required libraries can be installed using pip.
