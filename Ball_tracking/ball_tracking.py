@@ -3,9 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import image
 
-x_center = []
-y_center = []
-
 
 def ret_images(file):
     # Images list
