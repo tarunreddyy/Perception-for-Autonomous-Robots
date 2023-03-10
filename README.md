@@ -18,8 +18,8 @@ This repository contains the code and data for the Perception for Autonomous Rob
 - tqdm
 
 ## Usage
-Clone the repository: git clone https://github.com/tarunreddyy/Perception-for-Autonomous-Robots.git
-Navigate to the project directory and follow the instructions in the README file for the project
+- Clone the repository: git clone https://github.com/tarunreddyy/Perception-for-Autonomous-Robots.git
+- Navigate to the project directory and follow the instructions in the README file for the project
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
