@@ -33,7 +33,7 @@ def find_ball(images):
     for i in range(len(images)):
         hsv = cv2.cvtColor(images[i], cv2.COLOR_BGR2HSV)
 
-        l_1 = np.array([0, 200, 100])
+        l_1 = np.array([0, 200, 95])
         u_1 = np.array([10, 255, 255])
 
         l_2 = np.array([160, 100, 20])
